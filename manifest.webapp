@@ -1,0 +1,18 @@
+{
+  "version": "5.0",
+  "name": "Reloj",
+  "description": "Reloj Susana Murias",
+  "launch_path": "/index.html",
+  "icons": {
+    "16":  "/ico_16.png",
+    "32":  "/ico_32.png",
+    "48":  "/ico_48.png",
+    "60":  "/ico_60.png",
+    "128":  "/ico_128.png",
+    "256": "/ico_256.png"
+  },
+  "developer": {
+    "name": "Murias Vazquez",
+    "url": "http://www.susanamurias.es/"
+  }
+}
